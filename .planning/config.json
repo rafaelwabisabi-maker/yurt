@@ -1,0 +1,11 @@
+{
+  "project": "yurt",
+  "description": "Personal project — Wohnvision Jurte (yurt living vision)",
+  "mode": "interactive",
+  "project_type": "personal",
+  "features": {
+    "research": false,
+    "plan_check": false,
+    "verifier": false
+  }
+}
